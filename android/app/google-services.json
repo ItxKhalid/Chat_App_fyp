@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "664142391856",
+    "firebase_url": "https://chatapp-ed106-default-rtdb.firebaseio.com",
+    "project_id": "chatapp-ed106",
+    "storage_bucket": "chatapp-ed106.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664142391856:android:86f04f22d736d92da29bf5",
+        "android_client_info": {
+          "package_name": "com.example.tech_media"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6uQ3r4erSWGgbHXBzYOzxQcucTrwAcRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664142391856:android:280ec9b6f4ceebc2a29bf5",
+        "android_client_info": {
+          "package_name": "com.example.voice_recording_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6uQ3r4erSWGgbHXBzYOzxQcucTrwAcRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
